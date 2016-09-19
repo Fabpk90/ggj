@@ -1,0 +1,1 @@
+The game is based on many minigames, each of them has a proper folder with scripts for the game, with a mananger a spawner and a playermanager.
